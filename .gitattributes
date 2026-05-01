@@ -1,0 +1,2 @@
+data/**/*.lance filter=lfs diff=lfs merge=lfs -text
+data/amazon_reviews_db_PERMANENT/** filter=lfs diff=lfs merge=lfs -text
